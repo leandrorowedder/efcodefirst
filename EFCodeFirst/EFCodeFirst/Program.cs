@@ -10,6 +10,7 @@ namespace EFCodeFirst
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
